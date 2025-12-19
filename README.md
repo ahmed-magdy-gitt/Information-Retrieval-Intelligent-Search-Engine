@@ -6,6 +6,12 @@
 ![Algorithm](https://img.shields.io/badge/Algorithm-TF--IDF_%26_Cosine_Similarity-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,vscode,git" />
+  </a>
+</p>
+
 ## 📋 Executive Summary
 This project represents the core engine of an Information Retrieval system. It is designed to ingest a **Positional Inverted Index** (generated via **Apache Spark** for scalability) and perform complex search operations using the **Vector Space Model (VSM)**.
 
